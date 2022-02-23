@@ -1,0 +1,24 @@
+li {
+    list-style-position: inside;
+}
+body {
+    text-align: center;
+}
+.aboutus {
+    background-color: rgb(172, 255, 172);
+}
+.contact {
+    background-color: aqua;
+}
+.index {
+    background-color: crimson;
+}
+.yatırımlarımız{
+    color:rgb(180, 207, 176);
+}
+.başarılarımız{
+    color:rgb(148, 180, 159);
+}
+.ekibimiz{
+    color:rgb(120, 147, 149);
+}
